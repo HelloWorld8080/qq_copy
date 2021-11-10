@@ -1,0 +1,6 @@
+module.exports ={ 
+    host: 'localhost:27017',
+    dbname: 'qqdb',
+    username: 'liuxun',
+    password: '123456'
+}
